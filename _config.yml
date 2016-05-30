@@ -1,0 +1,28 @@
+name: Mountain Tea
+favicon: null
+layout_spectrum: 0.26812662393786013
+typography_spectrum: 0.201155427377671
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6524387844838202
+  lightness: 0.4638382575940341
+  saturation: 0.15465914062224329
+  rhythmicContrast: 0.4279380396474153
+purpose: []
